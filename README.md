@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Sodx1
-- 👀 I’m interested C++ and C#
+- 👀 I’m interested C#
+- VideoGamer
+- Love Front-End
 
 
 <!---
