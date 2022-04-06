@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Sodx1
-- 👀 I’m interested C# and Kotlin
 - VideoGamer
 - Love Front-End and Android
 
