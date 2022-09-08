@@ -19,7 +19,7 @@
 💬 Telegram: @SodxTom
 <br>
 <br>
-💻 Пишу на HONOR MagicBook 15.
+💻 Пишу на HONOR MagicBook 15(OS Windows 10 and Linux Mint).
 <br>
 <br>
 💁‍♂️ Мне 20 лет.
