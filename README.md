@@ -13,7 +13,8 @@
 <br>
 <br>
 Сейчас я изучаю Assembler(Да-да я не шучу.)
-
+<br>
+<br>
 👋 Моя страница ВК:<a href= "https://vk.ru/malkovsodx"> Антон Малков</a>
 <br>
 💬 Telegram: @SodxTom
