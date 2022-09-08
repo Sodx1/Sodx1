@@ -1,3 +1,4 @@
+react nodejs php mongodb mysql python
 - 👋 Hi, I’m @Sodx1
 - VideoGamer
 - Love Front-End and Android
