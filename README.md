@@ -16,7 +16,7 @@
 
 👋 Моя страница ВК:<a href= "https://vk.ru/malkovsodx"> Антон Малков</a>
 <br>
-💬 Telegram: @SodxTom
+💬 Telegram:<a href="https://te.me/SodXTom" @SodXTom </a>
 <br>
 <br>
 💻 Пишу на HONOR MagicBook 15(OS Windows 10 and Linux Mint).
