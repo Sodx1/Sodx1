@@ -13,10 +13,13 @@
 <br>
 <br>
 📕 Сейчас я изучаю: Пока ничего просто прогаю
-
-👋 Моя страница ВК:<a href= "https://vk.ru/malkovsodx"> Антон Малков</a>
 <br>
-💬 Telegram:<a href="https://t.me/SodXTom">@SodXTom </a>
+Мой <a href=sodx.netlify.app>сайт</a>
+<br>
+<br>
+👋 Моя страница ВК:<a href= "https://vk.ru/malkovsodx">Антон Малков</a>
+<br>
+💬 Telegram:<a href="https://t.me/Malkov_Anton_V">@Malkov_Anton_V</a>
 <br>
 <br>
 💻 Пишу на HONOR MagicBook 15(OS Windows 10 and Linux Mint).
