@@ -31,4 +31,5 @@
 <br>
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sodx1&layout=compact&theme=dracula/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sodx1)](https://github.com/anuraghazra/github-readme-stats)
 </div>
