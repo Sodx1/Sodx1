@@ -30,8 +30,6 @@
 <br>
 <br>
 <div align="center">
-  <a href="https://github.com/Sodx1">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sodx1&layout=compact&langs_count=7&theme=dracula"/>
-
-  
+ <a href="https://github.com/Sodx1">
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sodx1&hide_progress=true"/>
 </div>
