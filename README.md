@@ -30,6 +30,5 @@
 <br>
 <br>
 <div align="center">
-  <a href="https://github.com/Sodx1">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sodx1&layout=compact&theme=dracula/>
 </div>
