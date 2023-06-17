@@ -28,5 +28,6 @@
 <br>
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sodx1&layout=compact&theme=dark/">
+  [![Sodx1's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Sodx1)](https://github.com/Sodx1/leetcode-stats)
   
 </div>
