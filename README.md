@@ -28,6 +28,5 @@
 <br>
 <div align="center">
   <img height="197em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sodx1&layout=compact&theme=dark/">
-  <img height="200em" src="https://leetcode-stats-six.vercel.app/?username=Sodx1&theme=dark">
   
 </div>
