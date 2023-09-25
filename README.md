@@ -20,7 +20,7 @@
 💬 Telegram:<a href="https://t.me/Malkov_Anton_V">@Malkov_Anton_V</a>
 <br>
 <br>
-💻 Пишу на HONOR MagicBook 15(OS Fedora).
+💻 Пишу на HONOR MagicBook 15(OS Fedora and Windows).
 <br>
 <br>
 💁‍♂️ Мне 21 лет.
