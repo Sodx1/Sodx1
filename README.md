@@ -9,7 +9,7 @@
 💻 Языки, библиотеки и фреймворки на которых я пишу: C#, Python
 <br>
 <br>
-🔧 Использую в качестве БД: MongoDB и MySQL,Posgerss.
+🔧 Использую в качестве БД:MySQL,Posgerss.
 <br>
 <br>
 Мой <a href=https://sodx.netlify.app>сайт</a>
@@ -18,15 +18,5 @@
 👋 Моя страница ВК:<a href= "https://vk.com/malkovsodx">Антон Малков</a>
 <br>
 💬 Telegram:<a href="https://t.me/Malkov_Anton_V">@Malkov_Anton_V</a>
-<br>
-<br>
-💻 Пишу на HONOR MagicBook 15(Windows).
-<br>
-<br>
-💁‍♂️ Мне 21 лет.
-<br>
-<br>
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sodx1&layout=compact&theme=dark/">
-  
+
 </div>
