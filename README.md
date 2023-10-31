@@ -12,7 +12,7 @@
 🔧 Использую в качестве БД:MySQL,Posgerss.
 <br>
 <br>
-Мой <a href=https://sodx.netlify.app>сайт</a>
+Мой <a href=sodx1.github.io>сайт</a>
 <br>
 <br>
 👋 Моя страница ВК:<a href= "https://vk.com/malkovsodx">Антон Малков</a>
