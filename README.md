@@ -17,5 +17,5 @@
 <br>
 👋 Моя страница ВК:<a href= "https://vk.com/malkovsodx">Антон Малков</a>
 <br>
-💬 Telegram:<a href="[https://t.me/@Malkov_Anton_V](https://t.me/Malkov_Anton_V)">tg</a>
+💬 Telegram:<a href="https://t.me/Malkov_Anton_V">tg</a>
 </div>
